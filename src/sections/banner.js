@@ -23,13 +23,13 @@ export default function Banner() {
             that understand the value of influencer marketing.
           </Text>
           <Flex>
-            <a href='https://app.affmark.shop/register'>
+            <a href='https://form.jotform.com/212235987072055'>
             <Button variant="whiteButton" aria-label="Get Started">
               Create Account
             </Button>
             </a>
             <>
-            <a href='https://app.affmark.shop/signin'>
+            <a href='https://form.jotform.com/212235987072055'>
               <Button
                 variant="textButton"
                 aria-label="Watch Video"

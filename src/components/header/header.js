@@ -30,7 +30,7 @@ export default function Header({ className }) {
               </Link>
             ))}
           </Flex>
-          <a href='https://app.affmark.shop/register'>
+          <a href='https://form.jotform.com/212235987072055'>
             <Button
               className="donate__btn"
               variant="secondary"

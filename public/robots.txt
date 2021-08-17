@@ -1,2 +1,9 @@
+# *
 User-agent: *
-Sitemap: https://example.io/sitemap.xml
+Allow: /
+
+# Host
+Host: https://affmark.shop
+
+# Sitemaps
+Sitemap: https://affmark.shop/sitemap.xml

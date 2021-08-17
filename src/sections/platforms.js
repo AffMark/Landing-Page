@@ -11,7 +11,7 @@ const data = {
   description:
     'Our platform holistically evaluate your combined influence from all of your social media accounts in order to learn about your audience and get you the best brand partnerships possible.',
   btnName: 'Get Started',
-  btnURL: 'https://app.affmark.shop/register',
+  btnURL: 'https://form.jotform.com/212235987072055',
 };
 
 export default function Platforms() {
