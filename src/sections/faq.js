@@ -37,7 +37,7 @@ const faqs = [
     title: `Who's making this product?`,
     contents: (
       <div>
-        AffMark was founded by <a href='http://mcilie.github.io/' style={{ color: '#09c' }}>Michael Ilie</a> and <a href='https://vijayrs.ml' style={{ color: '#09c' }}>Vijay Shanmugam</a>.  We are two
+        AffMark was founded by <a href='http://mci.sh/' style={{ color: '#09c' }}>Michael Ilie</a> and <a href='https://vijayrs.com' style={{ color: '#09c' }}>Vijay Shanmugam</a>.  We are two
         high school students from Washington DC.  We're passionate about technology and we understand the value of influencer marketing.  We want
         to allow startups and small businesses to leverage the power of influencers at scale which has traditionally been limited to large corporations.
       </div>
